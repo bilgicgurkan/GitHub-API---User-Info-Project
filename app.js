@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function () {
     showRepoTitle()
     showLastSearch()
     getAllDeleteFromStorageAndUI()
-    // getAllDeleteFromUI()
 })
 
 
@@ -24,12 +23,6 @@ function eventListeners() {
         getRepos();
     });
 }
-
-// function eventListeners() {
-//     searchBtn.addEventListener("click", getUsers);
-//     searchBtn.addEventListener("click", getRepos);
-// }
-
 
 function getUsers() {
 
@@ -95,13 +88,3 @@ function getAllDeleteFromStorageAndUI() {
         }
     })
 }
-
-// function getAllDeleteFromUI() {
-//     const deleteBtn = document.getElementById("delete-last-search");
-
-//     deleteBtn.addEventListener("click", function () {
-//         while (lastSearch.firstElementChild !== null) {
-//             lastSearch.removeChild(lastSearch.firstElementChild)
-//         }
-//     })
-// }
