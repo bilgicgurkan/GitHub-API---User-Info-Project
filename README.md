@@ -1,4 +1,4 @@
-## GitHub API - User-Info Project
+## GitHub API - User Info Project
 
 <sub> Bu projemde GitHub API ye fetch ile istek atıp gelen sonuçları vitrinlediğim yapı kodladım. </sub>
 
