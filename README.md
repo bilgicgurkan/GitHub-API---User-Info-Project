@@ -19,10 +19,3 @@
 > <sub> ![image](https://user-images.githubusercontent.com/103066696/229346256-db054931-06e4-4208-91a2-efc547312e18.png) </sub>
 
 > <sub> ![image](https://user-images.githubusercontent.com/103066696/229346303-007facee-253f-451f-a426-4f8a1ea7f6b5.png) </sub>
-
-> <sub> ![image](https://user-images.githubusercontent.com/103066696/229346341-ad147dbc-f53f-4a19-966a-ef5a68602fb3.png) </sub>
-
-> <sub> ![image](https://user-images.githubusercontent.com/103066696/229346303-007facee-253f-451f-a426-4f8a1ea7f6b5.png) </sub>
-
-
-
